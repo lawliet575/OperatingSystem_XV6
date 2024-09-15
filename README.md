@@ -10,8 +10,4 @@ Welcome to **xv6**, a minimal Unix-like OS built for learning. 🧠 If you're he
 
 ## 🤔 Wait, how does it work?
 If you reached this part of the README, you have the potential to run **xv6**.
-If not, amigo, you’ve failed—go back to the start! 🔄 😜
-
-## 📂 How to Run?
-```bash
-make qemu
+If not, amigo, you’ve failed—go back to the start! 🔄 
