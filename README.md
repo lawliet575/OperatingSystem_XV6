@@ -9,5 +9,7 @@ Welcome to **xv6**, a minimal Unix-like OS built for learning. 🧠 If you're he
 - Perfect for understanding how OSes work at a basic level 🛠️
 
 ## 🤔 Wait, how does it work?
-If you reached this part of the README, you have the potential to run **xv6**.
-If not, amigo, you’ve failed—go back to the start! 🔄 
+If you reached this part, you have the potential to run **xv6**. 
+![image](https://github.com/user-attachments/assets/dd45eb4d-d56f-4334-80d3-823a47cdbc3f)
+
+If not, amigo, you’ve failed—go back to the start! 🔄
