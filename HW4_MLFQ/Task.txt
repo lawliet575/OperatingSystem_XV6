@@ -1,0 +1,8 @@
+Priority Schedueling krni hai if i manage to obtain a full in it
+ mid term ke marks brh jayenge
+
+
+sir ko try to explain ke how does it implememnt MLFQ as ume 4 queue hoti
+isme jo quues hai wo kidr horhi use
+ticks waitticks ticksleft ye sab samjhana
+4 queues how do processes switch in between qeueus idk
