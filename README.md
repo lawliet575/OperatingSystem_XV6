@@ -13,3 +13,7 @@ If you reached this part, you have the potential to run **xv6**.
 ![image](https://github.com/user-attachments/assets/dd45eb4d-d56f-4334-80d3-823a47cdbc3f)
 
 If not, amigo, you’ve failed—go back to the start! 🔄
+
+## 📚 Original Repository by MIT
+Explore the official MIT xv6 source code here:  
+🔗 [github.com/mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
